@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CdbPPEChauffageRESRService:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="PPEChauffage.war">
+      <element id="artifact" artifact-name="CdbPPEChauffageRESRService:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: eu.seatter.ppecdb.Application
+Specification-Title: CdB PPE Heating System REST API
+Specification-Version: 0.1
+Specification-Vendor: James
+Implementation-Title: CdBChauffage
+Implementation-Version: 0.1.0
+Implementation-Vendor: James Seatter

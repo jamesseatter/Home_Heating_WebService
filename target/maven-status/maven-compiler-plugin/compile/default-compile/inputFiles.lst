@@ -1,0 +1,15 @@
+D:\Dropbox\Developement\Projects\home_heating\WebService\CdbPPEChauffageRESTService\src\main\java\eu\seatter\ppecdb\Repository\VAPILastTempRepository.java
+D:\Dropbox\Developement\Projects\home_heating\WebService\CdbPPEChauffageRESTService\src\main\java\eu\seatter\ppecdb\Controller\SecureController.java
+D:\Dropbox\Developement\Projects\home_heating\WebService\CdbPPEChauffageRESTService\src\main\java\eu\seatter\ppecdb\JPAConfiguration.java
+D:\Dropbox\Developement\Projects\home_heating\WebService\CdbPPEChauffageRESTService\src\main\java\eu\seatter\ppecdb\Repository\VAPITemperatureLast365DaysRepository.java
+D:\Dropbox\Developement\Projects\home_heating\WebService\CdbPPEChauffageRESTService\src\main\java\eu\seatter\ppecdb\JPAUtility.java
+D:\Dropbox\Developement\Projects\home_heating\WebService\CdbPPEChauffageRESTService\src\main\java\eu\seatter\ppecdb\Application.java
+D:\Dropbox\Developement\Projects\home_heating\WebService\CdbPPEChauffageRESTService\src\main\java\eu\seatter\ppecdb\Repository\VAPISysConfigRepository.java
+D:\Dropbox\Developement\Projects\home_heating\WebService\CdbPPEChauffageRESTService\src\main\java\eu\seatter\ppecdb\Model\VAPITemperatureLast365Days.java
+D:\Dropbox\Developement\Projects\home_heating\WebService\CdbPPEChauffageRESTService\src\main\java\eu\seatter\ppecdb\Repository\VAPIAlertLast7DaysRepository.java
+D:\Dropbox\Developement\Projects\home_heating\WebService\CdbPPEChauffageRESTService\src\main\java\eu\seatter\ppecdb\Model\VAPIAlertLast7Days.java
+D:\Dropbox\Developement\Projects\home_heating\WebService\CdbPPEChauffageRESTService\src\main\java\eu\seatter\ppecdb\Model\VAPILastTemp.java
+D:\Dropbox\Developement\Projects\home_heating\WebService\CdbPPEChauffageRESTService\src\main\java\eu\seatter\ppecdb\Controller\MainController.java
+D:\Dropbox\Developement\Projects\home_heating\WebService\CdbPPEChauffageRESTService\src\main\java\eu\seatter\ppecdb\Model\VAPISysConfig.java
+D:\Dropbox\Developement\Projects\home_heating\WebService\CdbPPEChauffageRESTService\src\main\java\eu\seatter\ppecdb\Repository\UTemperatureRepository.java
+D:\Dropbox\Developement\Projects\home_heating\WebService\CdbPPEChauffageRESTService\src\main\java\eu\seatter\ppecdb\Model\UTemperature.java

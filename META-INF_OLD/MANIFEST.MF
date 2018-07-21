@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Specification-Title: CdB PPE Heating System REST API
+Specification-Version: 0.1
+Specification-Vendor: James
+Implementation-Title: CdBPPEChauffageRESTService
+Implementation-Version: 0.1.0
+Implementation-Vendor: James S

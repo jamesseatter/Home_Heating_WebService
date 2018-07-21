@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: eu.seatter.ppecdb.Controller.MainControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in eu.seatter.ppecdb.Controller.MainControllerTest
+initializationError(eu.seatter.ppecdb.Controller.MainControllerTest)  Time elapsed: 0 s  <<< ERROR!
+java.lang.Exception: No runnable methods
+

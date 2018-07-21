@@ -1,0 +1,15 @@
+eu\seatter\ppecdb\Repository\VAPIAlertLast7DaysRepository.class
+eu\seatter\ppecdb\JPAUtility.class
+eu\seatter\ppecdb\Controller\MainController.class
+eu\seatter\ppecdb\JPAConfiguration.class
+eu\seatter\ppecdb\Model\VAPILastTemp.class
+eu\seatter\ppecdb\Controller\SecureController.class
+eu\seatter\ppecdb\Model\UTemperature.class
+eu\seatter\ppecdb\Application.class
+eu\seatter\ppecdb\Model\VAPIAlertLast7Days.class
+eu\seatter\ppecdb\Repository\VAPILastTempRepository.class
+eu\seatter\ppecdb\Repository\VAPISysConfigRepository.class
+eu\seatter\ppecdb\Repository\UTemperatureRepository.class
+eu\seatter\ppecdb\Repository\VAPITemperatureLast365DaysRepository.class
+eu\seatter\ppecdb\Model\VAPITemperatureLast365Days.class
+eu\seatter\ppecdb\Model\VAPISysConfig.class
